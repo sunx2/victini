@@ -1,0 +1,3 @@
+Flask==0.12.0
+discord.py
+asyncio
